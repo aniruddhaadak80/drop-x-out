@@ -1,0 +1,40 @@
+
+.bookhd{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    background-color: #d21616;
+    border-radius: 5px;
+    
+}
+
+.bookpic{
+    height: 400px;
+    width:250px;
+    text-align: center;
+    border-radius: 5px;
+    padding: auto;
+
+    
+}
+
+.bookdiv{
+    height: auto;
+    width: auto;
+    background-color: #452eae;
+    border-radius: 10px;
+    border: 3px solid green;
+    margin: 10px;
+    padding: 7px;
+   
+}
+
+
+.bookbtn{
+    color: #29ff8d;
+    background-color: #e11eaa;
+    height: 30px;
+    width:150px;
+    font-size: 15px;
+    border-radius: 5px;
+}
