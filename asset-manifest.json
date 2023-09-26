@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drop-x-out/static/css/main.8366b927.css",
+    "main.js": "/drop-x-out/static/js/main.6afc8668.js",
+    "index.html": "/drop-x-out/index.html",
+    "main.8366b927.css.map": "/drop-x-out/static/css/main.8366b927.css.map",
+    "main.6afc8668.js.map": "/drop-x-out/static/js/main.6afc8668.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8366b927.css",
+    "static/js/main.6afc8668.js"
+  ]
+}
