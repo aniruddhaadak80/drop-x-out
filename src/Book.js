@@ -11,7 +11,7 @@ const Book = () => {
     </h1>
 
  
-    <img className='bookpic'   src='https://image.lexica.art/full_jpg/cf8d3270-7998-43d3-b9ef-7a255e346aca'/>
+    <img className='bookpic'   src='https://image.lexica.art/full_jpg/cf8d3270-7998-43d3-b9ef-7a255e346aca' alt=''/>
  
   
     <p >I love books</p>
